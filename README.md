@@ -1,10 +1,10 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aman Sachan/h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aman Sachan</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Islem Maboud a Full Stack Web Developer and Content Creator on [Youtube](https://youtube.com/coderone). I Spend most of time coding outstanding projects or recording tutorials.
+I'm Aman Sachan a Full Stack Web Developer and Content Creator. I Spend most of time coding projects.
 
 :mailbox: Reach me out!
 
@@ -12,11 +12,10 @@ I'm Islem Maboud a Full Stack Web Developer and Content Creator on [Youtube](htt
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @Toptal
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: islempenywis@gmail.com.
-- 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
+- 📫 How to reach me: amansachana@gmail.com.
+- 😄 Pronouns: CoderOne, Aman, Davilrocky.
 - ⚡ Fun fact: I play games and go to the GYM very often.
 
 #### Top Technologies
