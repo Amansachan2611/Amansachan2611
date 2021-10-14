@@ -41,7 +41,8 @@ I'm Aman Sachan a Full Stack Web Developer and Content Creator. I Spend most of 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <details>
 <summary>
   More stuff about me
@@ -56,23 +57,21 @@ I love sharing knowledge , posts together for helping other beginner level devel
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+JavaScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
+c            8 hrs           ███████████████████ ░░░░    50.25 %
+HTML         3 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   26.61 % 
+css          4 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   26.63 % 
+sql          5 hrs           ░░░░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+c++          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 <!--END_SECTION:waka-->
 
 #### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ipenywis&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Amansachan2611's github stats](https://github-readme-stats.vercel.app/api?username=Amansachan2611&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
 
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
 
 
  # Thanks for visiting!
