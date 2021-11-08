@@ -32,7 +32,7 @@ I'm Aman Sachan a Full Stack Web Developer and Content Creator. I Spend most of 
  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
  [![Html5 Badge](https://img.shields.io/badge/-Html5-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
  [![Css3 Badge](https://img.shields.io/badge/-Css3-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-### Tutorials
+### Skills
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -49,7 +49,7 @@ I'm Aman Sachan a Full Stack Web Developer and Content Creator. I Spend most of 
 
 <br >
 
-I love sharing knowledge , posts together for helping other beginner level developer
+
 
 
 #### Coding Stats
