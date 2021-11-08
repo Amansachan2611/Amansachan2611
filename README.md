@@ -25,7 +25,7 @@ I'm Aman Sachan a Full Stack Web Developer and Content Creator. I Spend most of 
 - 😄 Pronouns:He/.
 - ⚡ Fun fact: I play games.
 
-#### Top Technologies
+#### Top Skills
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
